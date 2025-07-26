@@ -40,9 +40,8 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
       body: Center(
         child: ScaleTransition(
           scale: _animation,
-          child: Text(
-            'Econect',
-            style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold, color: const Color.fromARGB(255, 0, 152, 208)),
+          child: Image.asset(
+            'assets/images/logoeconect.png', height: 200, width: 200
           ),
         ),
       ),

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/screens/splash_screen.dart';
+import 'screens/splash_screen.dart';
 
 void main() async {
   runApp(const EconectApp());

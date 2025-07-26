@@ -1,0 +1,27 @@
+[
+  {
+    "quest": "Qual é o principal gás responsável pelo efeito estufa agravado pelas atividades humanas?",
+    "altern": ["Oxigênio", "Dióxido de Carbono", "Nitrogênio", "Hélio"],
+    "answer": 1
+  },
+  {
+    "quest": "Qual das práticas abaixo contribui para a preservação ambiental?",
+    "altern": ["Queima de lixo ao ar livre", "Desmatamento de florestas", "Reciclagem de resíduos", "Uso excessivo de combustíveis fósseis"],
+    "answer": 2
+  },
+  {
+    "quest": "O que significa a sigla “3Rs” no contexto ambiental?",
+    "altern": ["Reciclar, Repor, Realocar", "Reduzir, Reutilizar, Reciclar", "Recolher, Renovar, Resolver", "Reparar, Reaproveitar, Reivindicar"],
+    "answer": 1
+  },
+  {
+    "quest": "Qual bioma brasileiro é conhecido por sua grande biodiversidade e vem sofrendo com o desmatamento ilegal?",
+    "altern": ["Pampas", "Caatinga", "Amazônia", "Pantana"],
+    "answer": 2
+  },
+  {
+    "quest": "Qual das opções abaixo é uma fonte de energia renovável?",
+    "altern": ["Carvão mineral", "Petróleo", "Gás natural", "Energia solar"],
+    "answer": 3
+  }
+]
